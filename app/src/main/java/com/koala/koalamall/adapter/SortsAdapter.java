@@ -23,6 +23,7 @@ public class SortsAdapter extends RecyclerView.Adapter implements View.OnClickLi
     private Context mContext;
     private MyClicker myClicker;
 
+
     public SortsAdapter(List<String> list, Context mContext, MyClicker myClicker) {
         this.mContext = mContext;
         this.myClicker = myClicker;
