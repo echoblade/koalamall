@@ -34,6 +34,7 @@ public class SortsAdapter extends RecyclerView.Adapter implements View.OnClickLi
         View convertView = LayoutInflater.from(mContext).inflate(R.layout.item_sorts, null);
         AutoUtils.autoSize(convertView);
         return new ViewHolder(convertView);
+
     }
 
     @Override
