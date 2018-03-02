@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">考拉贸商城</string>
+    <string name="network_connection_timeout">当前网络差，请检查网络链接。</string>
+    <string name="mobile">手机号</string>
+    <string name="code">验证码</string>
+    <string name="enter_code">请输入验证码</string>
+    <string name="ok">提交</string>
+    <string name="register">注册</string>
+    <string name="register_edit_user_name">请输入手机号</string>
+    <string name="register_get">获取</string>
+    <string name="register_enter_code">请输入验证码</string>
+    <string name="register_password">密　码</string>
+    <string name="register_edit_password">请输入密码</string>
+    <string name="register_confirm_password">确认密码</string>
+    <string name="register_enter_confirm_password">请再次输入密码</string>
+    <string name="register_sign_in">注册</string>
+    <string name="do_not_gain_verification_code_more_than_once">120秒内不能再次发送验证码请求</string>
+    <string name="incorrect_verification_code">验证码不正确</string>
+    <string name="please_enter_mobile_number">请输入手机号</string>
+    <string name="incorrect_format_of_mobile_number">手机号码格式不正确</string>
+    <string name="please_enter_password">请输入密码</string>
+    <string name="incorrect_format_of_password">密码格式不正确</string>
+    <string name="please_enter_verification_code">请输入验证码</string>
+    <string name="please_set_password">请设置密码</string>
+    <string name="password_settings_do_not_match">两次设置的密码不一致</string>
+    <string name="next">下一步</string>
+</resources>
